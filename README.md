@@ -1,24 +1,23 @@
-Sorteador de Números
-Conteúdo
-Descrição
-Como Usar
-Lado do Cliente
-Requisitos
-Estrutura do Projeto
-index.html
-style.css
-app.js
-Licença
-Descrição
-Este projeto é um simples sorteador de números aleatórios desenvolvido com HTML, CSS e JavaScript. Ele permite que o usuário insira uma quantidade de números e um intervalo numérico (de um número até outro número) e sorteia números únicos dentro desse intervalo.
+# Sorteador de Números
 
-Como Usar
-Lado do Cliente
-Clone este repositório em seu computador.
-Abra o arquivo index.html em seu navegador.
-Insira a quantidade de números a serem sorteados.
-Defina o intervalo numérico (do número X até o número Y).
-Clique no botão "Sortear" para ver os números sorteados.
-Clique no botão "Reiniciar" para limpar os campos e realizar um novo sorteio.
-Requisitos
-Nenhum requisito específico, apenas um navegador web moderno.
+## Descrição
+O Sorteador de Números é uma aplicação web que permite aos usuários sortear números aleatórios dentro de um intervalo definido. É útil para sorteios, decisões aleatórias, ou qualquer cenário onde números aleatórios são necessários.
+
+## Funcionalidades
+- **Sortear números**: Permite ao usuário sortear uma quantidade específica de números dentro de um intervalo definido.
+- **Interface amigável**: Interface clara e simples, facilitando a utilização por qualquer usuário.
+- **Reiniciar sorteio**: Possibilidade de limpar as entradas e começar um novo sorteio.
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## Instalação
+Não é necessário instalar a aplicação. Para utilizá-la, simplesmente clone o repositório e abra o arquivo `index.html` em um navegador moderno.
+
+```bash
+git clone https://seu-repositorio/sorteador-de-numeros.git
+cd sorteador-de-numeros
+```
+
